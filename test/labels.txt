@@ -1,0 +1,5 @@
+0 Tetris
+1 Sudoku
+2 Solitaire
+3 Picross
+4 PuyoPuyo
