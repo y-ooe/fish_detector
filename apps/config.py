@@ -13,6 +13,9 @@ class BaseConfig:
     WTF_CSRF_SECRET_KEY = os.getenv("WTF_CSRF_SECRET_KEY")
     # 画像アップロード先にapps/imagesを指定する
     UPLOAD_FOLDER = str(Path(basedir, "apps", "images"))
+    MODEL_ARN = os.environ.get('MODEL_ARN')
+    S3_BUCKET_NAME = os.environ.get('S3_BUCKET_NAME')
+
 
 
 

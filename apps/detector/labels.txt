@@ -1,0 +1,7 @@
+0 Tuna
+1 Squid
+2 Salmon
+3 Yellowtail
+4 SeaBream
+5 Octopus
+6 PacificSaury
